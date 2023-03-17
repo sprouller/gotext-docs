@@ -4,7 +4,7 @@ If you are using Funnel buildr and want to use Tobi messenger opt-in checkbox wi
 
 1\. Go to your GOtext app settings section and at the bottom of the page you will find your custom javascript in "My custom script" section.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Copy the code and put It inside \<script> tags. In our case It would be (**yours will be different**):
 
@@ -14,13 +14,13 @@ Copy the code and put It inside \<script> tags. In our case It would be (**yours
 
 In settings menu select "Custom body script" menu element, paste your javascript code and hit "Save changes".
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Choose a place where you want the opt-in checkbox to be visible (we recommend under "Add to cart" button) and add our custom div there.
 
 `<div class="tobi-checkbox"></div>`
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Hit save and you're all ready to go!
 
